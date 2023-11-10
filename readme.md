@@ -1,5 +1,3 @@
-Sure! Here's a simple write-up that you can use on GitHub:
-
 ## API Documentation
 
 ### Base URL
